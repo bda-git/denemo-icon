@@ -1,5 +1,5 @@
 # denemo-icon
-Icon for Denemo a music notation application, made by Denemo Team - ![alt text](https://flathub.org/apps/org.denemo.Denemo)
+Icon for Denemo a music notation application, made by Denemo Team - [Link]([https://exemple.com](https://flathub.org/apps/org.denemo.Denemo))
 
 ![alt text](https://github.com/bda-git/denemo-icon/blob/main/org.denemo.Denemo-preview.jpg?raw=true)
 
