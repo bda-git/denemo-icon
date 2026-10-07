@@ -4,7 +4,7 @@ Icon for Denemo a music notation application, made by Denemo Team - [https://fla
 ![alt text](https://github.com/bda-git/denemo-icon/blob/main/org.denemo.Denemo-preview.jpg?raw=true)
 
 This includes:
-* Application icon on template
+* Application icon on template (the second option is marked with the number 2)
 
 ![alt text](https://github.com/bda-git/denemo-icon/blob/main/org.denemo.Denemo-template.jpg?raw=true)
 
